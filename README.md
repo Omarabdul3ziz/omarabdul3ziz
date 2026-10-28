@@ -22,7 +22,15 @@ On the side:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,linux,arch,docker,kubernetes,postgres,redis,bash,git,githubactions,neovim,ts&perline=12" alt="Go, Linux, Arch, Docker, Kubernetes, PostgreSQL, Redis, Bash, Git, GitHub Actions, Neovim, TypeScript" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/go/ffffff"><img src="https://cdn.simpleicons.org/go/000000" alt="Go" title="Go" height="32" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/ffffff"><img src="https://cdn.simpleicons.org/rust/000000" alt="Rust" title="Rust" height="32" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff"><img src="https://cdn.simpleicons.org/gnubash/000000" alt="Bash" title="Bash" height="32" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/ffffff"><img src="https://cdn.simpleicons.org/typescript/000000" alt="TypeScript" title="TypeScript" height="32" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/ffffff"><img src="https://cdn.simpleicons.org/linux/000000" alt="Linux" title="Linux" height="32" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/ffffff"><img src="https://cdn.simpleicons.org/docker/000000" alt="Docker" title="Docker" height="32" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kubernetes/ffffff"><img src="https://cdn.simpleicons.org/kubernetes/000000" alt="Kubernetes" title="Kubernetes" height="32" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff"><img src="https://cdn.simpleicons.org/postgresql/000000" alt="PostgreSQL" title="PostgreSQL" height="32" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/redis/ffffff"><img src="https://cdn.simpleicons.org/redis/000000" alt="Redis" title="Redis" height="32" /></picture>&nbsp;&nbsp;
 
 [omarz.dev](https://omarz.dev) · [LinkedIn](https://www.linkedin.com/in/omarabdul3ziz) · [Email](mailto:omarabdul3ziz@gmail.com)
 
